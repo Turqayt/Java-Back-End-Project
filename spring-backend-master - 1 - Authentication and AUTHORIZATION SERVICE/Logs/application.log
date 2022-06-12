@@ -1,0 +1,12 @@
+2022-06-11 04-16-49 INFO  Starting Application using Java 17.0.3 on DESKTOP-57K4DAJ with PID 12144 (C:\Users\user\OneDrive\Masaüstü\spring-backend-master - Copy\target\classes started by user in C:\Users\user\OneDrive\Masaüstü\spring-backend-master - Copy)
+2022-06-11 04-16-49 DEBUG Running with Spring Boot v2.6.2, Spring v5.3.14
+2022-06-11 04-16-49 INFO  No active profile set, falling back to default profiles: default
+2022-06-11 04-16-52 DEBUG Filter 'j32bitExceptionHandlerFilter' configured for use
+2022-06-11 04-16-52 DEBUG Filter 'jwtSecurityFilter' configured for use
+2022-06-11 04-16-52 INFO  Started Application in 3.162 seconds (JVM running for 3.937)
+2022-06-11 04-16-59 INFO  JwtSecurityFilter started filtering...
+2022-06-11 04-16-59 DEBUG Username was extracted from authorization token: admin4
+2022-06-11 04-16-59 INFO  Proceeding to next filter on filter chain...
+2022-06-11 04-16-59 INFO  admin4 is making request to /backend/api/user/homepage. IP: 0:0:0:0:0:0:0:1
+2022-06-11 04-16-59 INFO  Home page values returned: [com.j32bit.backend.dto.HomePageDTO@146e5cbc]
+2022-06-11 04-16-59 INFO  admin4 made request to /backend/api/user/homepage. IP: 0:0:0:0:0:0:0:1
